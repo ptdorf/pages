@@ -2,4 +2,4 @@
 
 Hello
 
-    $cat index.md
+    $ cat index.md
