@@ -8,6 +8,6 @@ Just name hyour files `name.md` and commit them.
 You can use links to navigate to other pages:
 
 - [Index](index.md)
-- [Readme](readme.md)
+- [Readme](README.md)
 
 Format: `[Title](page.md)`.
