@@ -1,9 +1,9 @@
-# ptdorf.github.io
+# Index
 
 Hello
 
     $ cat index.md
-    # ptdorf.github.io
+    # Index
 
     Hello
 
